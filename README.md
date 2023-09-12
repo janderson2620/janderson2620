@@ -1,4 +1,4 @@
-## Hi! Eu eu sou Janderson. 👋 
+## Opa! Eu eu sou Janderson. 👋 
 Explorando novas tecnologias e frameworks para construir soluções modernas e eficientes.🎯
 
 ![Janderson Júnior GitHub stats](https://github-readme-stats.vercel.app/api?username=janderson2620&show_icons=true&theme=dark)
